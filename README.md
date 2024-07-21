@@ -5,11 +5,11 @@
 - Skill Set:
 - 0 : Python -> Basics (Depreceated Skill);
 - 1 : Java -> Basics + OOP (Bleeding edge);
-- 2 : Linux Administration + Bash Scripting (Chad FOSS);
-- 3 : HTML + MS Expression Web 4 + Scratch (Things kids do);
-- 4 : Disaster Debugging (on a Computer)(Grew up doing it);
+- 2 : Linux Enthusiast + Bash Scripting (Chad FOSS);
+- 3 : HTML + MS Expression Web 4 + Scratch;
+- 4 : Disaster Debugging;
 - 5 : Graphical Designing (minecraft texture packs designing);
-- 6 : Minimal exposure to "Haskell", "Lua", "C", "perl";
+- 6 : Sheer exposure to "Haskell", "Lua", "C", "perl";
 - 7 : Working of Operating Systems;
 -
 - Discord Tag :: tech_gp_op
