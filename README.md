@@ -8,7 +8,7 @@ My Coding Journey 💻
 
     HTML: I commenced my coding journey at the age of 9. 🌐
     Python: I have developed a strong passion for Python since I began learning it at the age of 12. 🐍
-    Java: I acquired knowledge of Java at the age of 14. ☕
+    Java: I acquired knowledge of Java at the age of 13. ☕
     Linux: I embraced Linux when I was about 13, and I have been a die-hard fan ever since. 🐧
     Lua & Haskell: I have explored these languages and find them intriguing. 🔍
 
