@@ -8,7 +8,7 @@ My Self Examined Traits (may differ through situations):
 - 🤓 **Math & Physics Buff**: Enjoys solving obscure mathematics problems and studying physics for fun.
 - 🤵‍♂️ **Linux Advocate**: Prefers using Linux over Windows for a more customizable experience.
 - 🧠 **Logical Thinker**: Admires logical arguments and values simplicity in design and code (optional).
-- 🔍 **Tech Enthusiast**: Always learning the next cool thing and can spend an entire day staring at technical equipment (seriously).
+- 🔍 **Tech Enthusiast**: Always learning the next cool thing and can spend an entire day playing with technical equipment (seriously).
 - 🖌️ **Graphic Designer**: Has dabbled in graphic design multiple times just to create the perfect Minecraft texture pack.
 - Check at *planetminecraft.com/member/gitanshu2409/*
 - 🤷‍♂️ **Helpful Learner**: May not know a lot, but always tries to be helpful (even if it doesn’t always work out).
