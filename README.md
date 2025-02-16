@@ -2,15 +2,17 @@ Gitanshu2409's GitHub Repository 🚀
 
 Welcome to my GitHub profile! My name is Gitanshu2409, and I am a dedicated tech enthusiast with a profound interest in technology and coding. My journey in this field began at an early age, and I am eager to explore the extensive opportunities that programming offers.
 
-My Beliefs 🙏
-    - Loves when Software is free as in transparency and free to use. 🌍
-    - Solves obscure mathematics and studies physics for fun. 🤓
-    - Prefers using linux in place of windows. 🤵‍♂️
-    - Admires logical arguments and simplicity (optional).
-    - Learns the next cool thing and can stare at techincal equipment for whole day (seriously).
-    - Did graphic designing many times just to get the right minecraft texture pack. 🖌️
-    - Doesn't know a lot but tries to be helpful (though he never is).
-    - Wouldn't mind if i do the work and ChatGPT writes the report/conclusion.
+My Self Examined Traits (may differ through situations):
+
+- 🌍 **Loves Transparency**: Passionate about software that is free as in transparency and free to use.
+- 🤓 **Math & Physics Buff**: Enjoys solving obscure mathematics problems and studying physics for fun.
+- 🤵‍♂️ **Linux Advocate**: Prefers using Linux over Windows for a more customizable experience.
+- 🧠 **Logical Thinker**: Admires logical arguments and values simplicity in design and code (optional).
+- 🔍 **Tech Enthusiast**: Always learning the next cool thing and can spend an entire day staring at technical equipment (seriously).
+- 🖌️ **Graphic Designer**: Has dabbled in graphic design multiple times just to create the perfect Minecraft texture pack.
+- 🤷‍♂️ **Helpful Learner**: May not know a lot, but always tries to be helpful (even if it doesn’t always work out).
+- 🤖 **Collaborative Worker**: Wouldn't mind doing the work while letting ChatGPT handle the report or conclusion.
+
     
 My Coding Journey 💻
 
