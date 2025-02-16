@@ -5,7 +5,7 @@ Welcome to my GitHub profile! My name is Gitanshu2409, and I am a dedicated tech
 My Self Examined Traits (may differ through situations):
 
 - 🌍 **Loves Transparency**: Passionate about software that is free as in transparency and free to use.
-- 🤓 **Math & Physics Buff**: Enjoys solving obscure mathematics problems and studying physics for fun.
+- 🤓 **Math & Physics Buff**: Enjoys studying obscure mathematics and studying physics for fun.
 - 🤵‍♂️ **Linux Advocate**: Prefers using Linux over Windows for a more customizable and subjectively superior experience as an enthusiast.
 - 🧠 **Logical Thinker**: Admires logical arguments and values simplicity in design and code (optional).
 - 🔍 **Tech Enthusiast**: Always learning the next cool thing and can spend an entire day playing with technical equipment (seriously).
