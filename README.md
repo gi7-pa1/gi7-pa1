@@ -6,7 +6,7 @@ My Self Examined Traits (may differ through situations):
 
 - 🌍 **Loves Transparency**: Passionate about software that is free as in transparency and free to use.
 - 🤓 **Math & Physics Buff**: Enjoys solving obscure mathematics problems and studying physics for fun.
-- 🤵‍♂️ **Linux Advocate**: Prefers using Linux over Windows for a more customizable experience.
+- 🤵‍♂️ **Linux Advocate**: Prefers using Linux over Windows for a more customizable and subjectively superior experience as an enthusiast.
 - 🧠 **Logical Thinker**: Admires logical arguments and values simplicity in design and code (optional).
 - 🔍 **Tech Enthusiast**: Always learning the next cool thing and can spend an entire day playing with technical equipment (seriously).
 - 🖌️ **Graphic Designer**: Has dabbled in graphic design multiple times just to create the perfect Minecraft texture pack.
