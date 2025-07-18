@@ -22,4 +22,5 @@ Been into computers forever. I have an addiction to making and breaking tech stu
 
     Favorite People/Things: Haters and Appreciators 🫶.
 
-Feel free to check out my repos. If you want to chat or collaborate, hit me up! 💬
+Feel free to check out my repos. If you want to chat or collaborate, hit me up at gi7-pa1@proton.me and expect delay. 💬
+Over and Out.
