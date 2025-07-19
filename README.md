@@ -4,7 +4,7 @@ Hey, thanks for stopping by! 👋
 
 Been into computers forever. I am addicted since a very long time to making and breaking tech stuff, old or new, and yeah, I occasionally write cool code. 💻 Here’s a few hints about me:
 
-    Skills: Linux, Python, Java, HTML, Bash, Scratch and debugging, and messing with old hardware (— addicted to the last one 🛠️) and lot of other stuff i can't even remember     at this point. If it breaks, I’ll fix it... or make it worse.
+    Skills: Linux, Python, Java, HTML, Bash, Scratch and debugging, and messing with old hardware (— addicted to the last one 🛠️) and lot of other stuff i can't even remember at this point. If it breaks, I’ll fix it... or make it worse.
         
     Math Buff: Math’s my thing 🔢. I enjoy going down weird, obscure paths (like ancient books 📚) even if I don’t always ace the tests.
 
