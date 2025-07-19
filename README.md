@@ -2,10 +2,10 @@ Welcome to gi7-pa1's GitHub Repository 🚀
 
 Hey, thanks for stopping by! 👋
 
-Been into computers forever. I have an addiction to making and breaking tech stuff, old or new, and yeah, I occasionally write cool code. 💻 Here’s a bit about me:
+Been into computers forever. I am addicted since a very long time to making and breaking tech stuff, old or new, and yeah, I occasionally write cool code. 💻 Here’s a few hints about me:
 
-    Skills: Linux, Python, Java, HTML, Bash, debugging, and messing with old hardware — addicted to the last one 🛠️. If it breaks, I’ll fix it... or make it worse.
-
+    Skills: Linux, Python, Java, HTML, Bash, Scratch and debugging, and messing with old hardware (— addicted to the last one 🛠️) and lot of other stuff i can't even remember     at this point. If it breaks, I’ll fix it... or make it worse.
+        
     Math Buff: Math’s my thing 🔢. I enjoy going down weird, obscure paths (like ancient books 📚) even if I don’t always ace the tests.
 
     Problem Solver: I come up with solutions that might seem odd and unconventional, but they get the job done 💡.
@@ -20,7 +20,7 @@ Been into computers forever. I have an addiction to making and breaking tech stu
 
     Not Cool, Just Me: I try to be cool, but I’m still working on it 😎❌.
 
-    Favorite People/Things: Haters and Appreciators 🫶.
+    Favorite People/Things: Haters, Appreciators and also genuinely curious people. 🫶.
 
 Feel free to check out my repos. If you want to chat or collaborate, hit me up at gi7-pa1@proton.me and expect delay. 💬
 Over and Out.
