@@ -22,5 +22,5 @@ Been into computers forever. I am addicted since a very long time to making and 
 
     Favorite People/Things: Haters, Appreciators and also genuinely curious people. 🫶.
 
-Feel free to check out my repos. If you want to chat or collaborate, hit me up at gi7-pa1@proton.me and expect delay. 💬
+Feel free to check out my repos. If you want to chat or collaborate, hit me up at gi7.pa1@gmail.com and expect delay. 💬
 Over and Out.
